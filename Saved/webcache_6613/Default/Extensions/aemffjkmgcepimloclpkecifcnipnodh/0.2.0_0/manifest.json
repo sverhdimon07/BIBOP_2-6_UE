@@ -1,0 +1,74 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "img/icon16.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "AdLock"
+   },
+   "background": {
+      "service_worker": "js/service-worker.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/content-script.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "hard-whitelist",
+         "path": "res/net/hard-whitelist.json"
+      }, {
+         "enabled": true,
+         "id": "1001",
+         "path": "res/net/1001.json"
+      }, {
+         "enabled": true,
+         "id": "1002",
+         "path": "res/net/1002.json"
+      }, {
+         "enabled": true,
+         "id": "1005",
+         "path": "res/net/1005.json"
+      }, {
+         "enabled": true,
+         "id": "1006",
+         "path": "res/net/1006.json"
+      }, {
+         "enabled": true,
+         "id": "1008",
+         "path": "res/net/1008.json"
+      }, {
+         "enabled": true,
+         "id": "1105",
+         "path": "res/net/1105.json"
+      }, {
+         "enabled": true,
+         "id": "1113",
+         "path": "res/net/1113.json"
+      }, {
+         "enabled": true,
+         "id": "1216",
+         "path": "res/net/1216.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "Block ads, pop-ups and all kind of ads on your favourite sites, including YT, Crunchyroll, Spotify, SoundCloud and KissAnime.",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt7hQSZwDjUPjxct5zcpVwVo17Qi+QpIAgIA7xa+5e27O6GucCmRkvYXPG22481c5WslZaQphBJwCM5yj6YpA0Tt/44nB7zhz6N2r2TfM6vI8jpM/v6WXzutBDdOElP3fnQCp/4hDnf0p4Pnk5959TOKP+zRFl+CRYGVdUwGe7jwPDBp4WlKuPaQ61u2zHySFB24HfFwJhXxoHrZePnTPqWedqIgfsrCySp3qfl0VnloOGYKbPD1gXKRQIPrRV1Pu4gYOBU72avCzpjMcpxH5qdGtUkQAT+Dp3Z8lU/T61cQqowpngFYTbVdbFOt5VSqlQO21yDQyIYs2V85YmIU6XwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "101",
+   "name": "AdLock: Free Adblocker & Privacy Protection",
+   "options_page": "options.html",
+   "permissions": [ "activeTab", "declarativeNetRequest", "storage", "unlimitedStorage", "tabs", "webNavigation", "webRequest", "scripting" ],
+   "short_name": "AdLock",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.0"
+}

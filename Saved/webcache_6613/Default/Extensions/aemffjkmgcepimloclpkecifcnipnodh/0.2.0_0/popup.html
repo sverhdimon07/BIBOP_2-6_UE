@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/popup.css">
+  <script src="js/popup.js"></script>
+</head>
+<body>
+  <section class="main">
+    <div class="blocking-stats">
+      <ul class="blocking-st-ul">
+        <li class="blocking-st-numbers">
+        <span id="total-blocked" class="num-blocked"></span>
+        <p data-i18n="blocked_all_time" class="blocking-st-label"></p>
+        </li>
+        <li class="blocking-st-numbers">
+        <span id="tab-blocked" class="num-blocked"></span>
+        <p data-i18n="blocked_this_page" class="blocking-st-label"></p>
+        </li>
+      </ul>
+    </div>
+    
+    <div class="rate">
+      <p class="rate__label" data-i18n="rate_us"></p>
+      <a id="rate-link" target="_blank"></a>
+      <div id="rate-stars">
+        <template id="template-star">
+          <span class="rate__star">
+            <svg width="44" height="42" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M22.515 34.33 22 34.018l-.516.31L10.82 40.75l-.01.006-.011.007c-.303.193-.58.256-.858.232a1.485 1.485 0 0 1-.818-.306 2.083 2.083 0 0 1-.61-.763c-.104-.217-.143-.485-.058-.854v-.001l2.827-12.134.137-.588-.458-.395-9.435-8.148c-.29-.263-.43-.521-.486-.778v-.004a1.544 1.544 0 0 1 .057-.887c.12-.329.287-.567.49-.745.153-.134.417-.268.87-.337l12.435-1.089.6-.052.234-.556L20.544 1.93l.002-.003c.135-.326.325-.533.569-.672h.001C21.43 1.073 21.72 1 22 1c.28 0 .571.074.886.254.242.138.431.346.567.672l.002.003 4.818 11.43.234.555.6.052 12.434 1.09c.455.068.718.202.871.336.203.178.37.416.49.745.106.293.126.582.06.89-.057.257-.199.516-.49.78l-9.434 8.147-.458.395.137.588 2.827 12.134v.001c.085.369.046.637-.057.854-.149.31-.35.56-.61.763a1.485 1.485 0 0 1-.819.306c-.278.024-.555-.04-.858-.232l-.01-.007-.01-.006-10.665-6.42Z" stroke="#E8E8E8" stroke-width="2"/>
+            </svg>
+          </span>
+        </template>
+      </div>
+    </div>
+
+    <ul class="content">
+      <li>
+        <p class="content-label" data-i18n="show_ads_on_this_page"></p>
+        <input type="checkbox" id="whitelist">
+        <p id="hard-whitelisted" data-i18n="page_hard_whitelisted"></p>
+      </li>
+      <li>
+        <p class="content-label" data-i18n="settings"></p>
+        <a href="#" id="settings-link" target="_blank"></a>
+      </li>
+    </ul>
+
+    <div class="flex-stretcher"></div>
+
+    <button id="global-switch" data-i18n="adlock_turn_off"></button>
+  </section>
+
+  <div class="footer">
+    <div class="footer-label-code">
+      <div class="footer-text">
+        <div class="footer-text-logo">
+          <svg width="35" height="44" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M24.73 9.328H10.239L0 19.464V33.8l10.239 10.136h14.483L34.96 33.801V19.464L24.73 9.328Zm7.546 23.352-8.655 8.576h-12.25L2.716 32.68V20.553l8.655-8.567h12.25l8.655 8.567V32.68Z" fill="#fff"/><path d="m23.764 37.274 5.828-5.77V21.73l-5.828-5.77h-4.925v21.283l4.925.031ZM21.53 18.625h.902l4.467 4.422v7.086l-4.466 4.421h-.903V18.625ZM11.205 15.96l-5.828 5.77v9.743l2.684 2.658v-6.89h5.377v9.97h2.684V15.938l-4.917.023Zm2.265 2.665v5.99H8.093v-1.537l4.466-4.421.91-.032ZM6.73 9.775v-1.34c0-2.885 2.914-5.77 6.28-5.77h8.972c3.341 0 6.28 2.885 6.28 5.77v1.34l2.683 2.657V8.427C30.953 4.225 26.677 0 21.983 0H13.01C8.314 0 4.046 4.202 4.046 8.427v4.005L6.73 9.775Z" fill="#fff"/>
+          </svg>
+        </div>
+        <p class="footer-text-heading">Block ads and trackers like a <strong>PRO</strong></p>
+      </div>
+      <a class="footer-button" target="_blank" href="https://adlock.com/?source=ext_ch_ban">Get It Now</a>
+    </div>
+  </div>
+
+</body>
+</html>

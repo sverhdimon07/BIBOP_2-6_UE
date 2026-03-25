@@ -1,0 +1,211 @@
+{
+   "add_custom_filter": {
+      "message": "Agregando filtro personalizado"
+   },
+   "add_exclusion": {
+      "message": "Añadir exclusión"
+   },
+   "add_own_filter": {
+      "message": "Añada filtro propio"
+   },
+   "add_to_whitelist": {
+      "message": "Añadir a la lista blanca"
+   },
+   "adlock_desc": {
+      "message": "La extensión AdLock es una gran opción para bloquear anuncios en Google Chrome. Pero los estafadores pueden comprometer la seguridad de su ordenador a través de los anuncios en las aplicaciones, juegos y otros navegadores. Si necesita protección extendida, pruebe AdLock para Windows en todo el sistema."
+   },
+   "adlock_turn_off": {
+      "description": "TRANSLATE. Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "desactivar"
+   },
+   "adlock_turn_on": {
+      "description": "TRANSLATE. Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "activar"
+   },
+   "app_desc": {
+      "message": "Block ads on your favourite websites, including video and audio ads on YouTube, Crunchyroll, Spotify, SoundCloud and KissAnime."
+   },
+   "blocked_all_time": {
+      "message": "Bloqueado todo el tiempo"
+   },
+   "blocked_rule": {
+      "message": "Bloqueado a partir de una regla: "
+   },
+   "blocked_this_page": {
+      "message": "Bloqueado en esta página"
+   },
+   "check_network": {
+      "message": "Compruebe su conexión de red y vuelva a intentarlo."
+   },
+   "check_updates": {
+      "message": "compruebe actualizaciones"
+   },
+   "check_url": {
+      "message": "¡Verifique la URL y repita el proceso!"
+   },
+   "click_check_updates": {
+      "message": " Haga clic en verificar actualizaciones para descargar las reglas."
+   },
+   "clipboard": {
+      "message": "Copied to clipboard"
+   },
+   "contact_us": {
+      "message": "califíquenos"
+   },
+   "custom_filter_successfully_added": {
+      "message": "'$filter_name$' se agregó exitosamente.",
+      "placeholders": {
+         "filter_name": {
+            "content": "$1"
+         }
+      }
+   },
+   "enter_whitelist": {
+      "message": "Introducir en la lista blanca URL o dominio"
+   },
+   "exclude_btn": {
+      "message": "excluir"
+   },
+   "fetch_rules": {
+      "message": "No se pudieron recuperar las reglas para la URL especificada."
+   },
+   "filter_desc_1001": {
+      "message": "Conjunto de reglas para Runet (Segmento de internet de habla rusa)"
+   },
+   "filter_desc_1002": {
+      "message": "Conjunto de reglas para muchas websites inglesas"
+   },
+   "filter_desc_1003": {
+      "message": "Reglas que suprimen los intentos de algunas websites para rastrear su actividad"
+   },
+   "filter_desc_1004": {
+      "message": "Reglas que protegen su navegación de ser rastreadas por las redes sociales"
+   },
+   "filter_desc_1005": {
+      "message": "Reglas para bloquear anuncios en la mayoría de los sitios web españoles y portugueses"
+   },
+   "filter_desc_1006": {
+      "message": "Reglas para bloquear anuncios en la mayoría de los sitios web alemanes"
+   },
+   "filter_desc_1008": {
+      "message": "Reglas para bloquear anuncios en la mayoría de los sitios web holandeses"
+   },
+   "filter_desc_1105": {
+      "message": "Reglas para bloquear anuncios en la mayoría de los sitios web checos y eslovacos"
+   },
+   "filter_desc_1216": {
+      "message": "Reglas para bloquear anuncios en la mayoría de los sitios web polacos"
+   },
+   "filter_failed": {
+      "message": "¡Filter update failed!"
+   },
+   "filter_list": {
+      "message": "Lista de filtros"
+   },
+   "filter_name": {
+      "message": "Nombre de filtro"
+   },
+   "filter_name_1001": {
+      "message": "Filtro ruso"
+   },
+   "filter_name_1002": {
+      "message": "Filtro inglés"
+   },
+   "filter_name_1003": {
+      "message": "Filtro spyware"
+   },
+   "filter_name_1004": {
+      "message": "Filtro de redes sociales"
+   },
+   "filter_name_1005": {
+      "message": "Filtro Español/Portugués"
+   },
+   "filter_name_1006": {
+      "message": "Filtro Alemán"
+   },
+   "filter_name_1008": {
+      "message": "Filtro Holandés"
+   },
+   "filter_name_1105": {
+      "message": "EasyList Checa y Eslovaca"
+   },
+   "filter_name_1216": {
+      "message": "Filtro polaco"
+   },
+   "filter_source": {
+      "message": "Fuente de filtro"
+   },
+   "filters_updated": {
+      "message": "Los filtros fueron actualizados"
+   },
+   "get_adlock": {
+      "message": "Obtener adlock para windows"
+   },
+   "get_it": {
+      "message": "Obtener"
+   },
+   "ignore_btn": {
+      "message": "ignorar"
+   },
+   "last_update": {
+      "message": "última actualización"
+   },
+   "malicious": {
+      "message": "Sitio web malicioso bloqueado: "
+   },
+   "maximum_protection": {
+      "description": "The \"maximum\" word should be emphasized",
+      "message": "\u003Cstrong>Máxima \u003C/strong> protección para sus dispositivos."
+   },
+   "never": {
+      "message": "Nunca"
+   },
+   "never_loaded": {
+      "message": "no llegó a cargarse."
+   },
+   "no_filters_update": {
+      "message": "¡Sin filtros por actualizar!"
+   },
+   "one_moment": {
+      "message": "Un momento"
+   },
+   "option_filters": {
+      "message": "Filtros "
+   },
+   "option_whitelist": {
+      "message": "Lista Blanca"
+   },
+   "page_hard_whitelisted": {
+      "message": "Dominio en la lista blanca"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "rate_us": {
+      "message": "califíquenos"
+   },
+   "settings": {
+      "message": "Configuración"
+   },
+   "show_ads_on_this_page": {
+      "message": "Mostrar anuncios en esta página"
+   },
+   "success": {
+      "message": "¡Éxito!"
+   },
+   "thank_you": {
+      "message": "¡Gracias!"
+   },
+   "updating_filters": {
+      "message": "Actualizando filtros"
+   },
+   "user_whitelist": {
+      "message": "Lista Blanca de Usuario"
+   },
+   "we_recommend": {
+      "message": "¡Recomendamos la protección total!"
+   },
+   "you_are_cool": {
+      "message": "¡Tú también eres genial! Quédate como eres."
+   }
+}

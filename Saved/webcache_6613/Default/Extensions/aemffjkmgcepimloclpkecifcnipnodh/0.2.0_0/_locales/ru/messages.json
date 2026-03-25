@@ -1,0 +1,211 @@
+{
+   "add_custom_filter": {
+      "message": "Добавить свой фильтр"
+   },
+   "add_exclusion": {
+      "message": "Добавить исключение"
+   },
+   "add_own_filter": {
+      "message": "Добавить фильтр"
+   },
+   "add_to_whitelist": {
+      "message": "Добавить"
+   },
+   "adlock_desc": {
+      "description": "Displayed on Thank you page",
+      "message": "Расширение AdLock отлично подходит для блокировки рекламы в Google Chrome. Тем не менее, реклама в приложениях и онлайн-играх может нести угрозу для вашего компьютера. Для более надежной защиты используйте AdLock для Windows."
+   },
+   "adlock_turn_off": {
+      "description": "TRANSLATE. Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "выключить"
+   },
+   "adlock_turn_on": {
+      "description": "TRANSLATE. Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "включить"
+   },
+   "app_desc": {
+      "message": "Block ads on your favourite websites, including video and audio ads on YouTube, Crunchyroll, Spotify, SoundCloud and KissAnime."
+   },
+   "blocked_all_time": {
+      "message": "За все время"
+   },
+   "blocked_rule": {
+      "message": "Заблокировано правилом: "
+   },
+   "blocked_this_page": {
+      "message": "На этой странице"
+   },
+   "check_network": {
+      "message": "Проверьте подключение к сети и попробуйте снова"
+   },
+   "check_updates": {
+      "message": "Проверить обновления"
+   },
+   "check_url": {
+      "message": "Проверьте URL и повторите попытку!"
+   },
+   "checking_filter_updates": {
+      "description": "TRANSLATE",
+      "message": "Проверка обновлений фильтров"
+   },
+   "click_check_updates": {
+      "message": "Для загрузки правил нажмите Проверить обновления"
+   },
+   "clipboard": {
+      "message": "Скопировано в буфер обмена"
+   },
+   "contact_us": {
+      "message": "Оценить нас"
+   },
+   "custom_filter_successfully_added": {
+      "message": "'$filter_name$' успешно добавлен!",
+      "placeholders": {
+         "filter_name": {
+            "content": "$1"
+         }
+      }
+   },
+   "enter_whitelist": {
+      "message": "Добавить домен или URL в список исключений"
+   },
+   "exclude_btn": {
+      "message": "Исключить"
+   },
+   "fetch_rules": {
+      "message": "Не удалось получить правила по указанному URL"
+   },
+   "filter_desc_1001": {
+      "message": "Набор правил для русскоязычных сайтов"
+   },
+   "filter_desc_1002": {
+      "message": "Набор правил для англоязычных сайтов"
+   },
+   "filter_desc_1003": {
+      "message": "Правила, которые предотвращают попытки сайтов отслеживать вашу активность"
+   },
+   "filter_desc_1004": {
+      "message": "Правила для защиты от трекинга в социальных сетях"
+   },
+   "filter_desc_1005": {
+      "message": "Правила блокировки рекламы для большинства испанских и португальских сайтов"
+   },
+   "filter_desc_1006": {
+      "description": "TRANSLATE",
+      "message": "Правила блокировки рекламы для большинства немецких сайтов"
+   },
+   "filter_desc_1008": {
+      "description": "TRANSLATE",
+      "message": "Правила блокировки рекламы для большинства нидерландских сайтов"
+   },
+   "filter_desc_1105": {
+      "message": "Правила блокировки рекламы для большинства ческих и словацких сайтов"
+   },
+   "filter_desc_1113": {
+      "description": "TRANSLATE",
+      "message": "Правила блокировки рекламы для большинства французских сайтов"
+   },
+   "filter_desc_1216": {
+      "message": "Правила блокировки рекламы для большинства польских сайтов"
+   },
+   "filter_failed": {
+      "message": "Ошибка обновления фильтра"
+   },
+   "filter_list": {
+      "message": "Список фильтров"
+   },
+   "filter_name": {
+      "message": "Название фильтра"
+   },
+   "filter_name_1001": {
+      "message": "Русский фильтр"
+   },
+   "filter_name_1002": {
+      "message": "Английский фильтр"
+   },
+   "filter_name_1003": {
+      "message": "Шпионский фильтр"
+   },
+   "filter_name_1004": {
+      "message": "Фильтр для социальных сетей"
+   },
+   "filter_name_1005": {
+      "message": "Испанский/Португальский фильтр"
+   },
+   "filter_name_1006": {
+      "description": "TRANSLATE",
+      "message": "Немецкий фильтр"
+   },
+   "filter_name_1008": {
+      "description": "TRANSLATE",
+      "message": "Нидерландский фильтр"
+   },
+   "filter_name_1105": {
+      "message": "EasyList ческий и словацкий"
+   },
+   "filter_name_1113": {
+      "description": "TRANSLATE",
+      "message": "Французский фильтр"
+   },
+   "filter_name_1216": {
+      "message": "Польский фильтр"
+   },
+   "filter_source": {
+      "message": "Источник фильтра"
+   },
+   "filters_updated": {
+      "message": "Фильтры обновлены"
+   },
+   "get_adlock": {
+      "message": "Получите AdLock для Windows"
+   },
+   "ignore_btn": {
+      "message": "Игнорировать"
+   },
+   "last_update": {
+      "message": "Последнее обновление"
+   },
+   "malicious": {
+      "message": "Вредоносный сайт заблокирован: "
+   },
+   "never": {
+      "description": "TRANSLATE",
+      "message": "Никогда"
+   },
+   "never_loaded": {
+      "message": "Не был загружен ранее!"
+   },
+   "no_filters_update": {
+      "message": "Нет обновлений для фильтров!"
+   },
+   "one_moment": {
+      "message": "Одну минуту"
+   },
+   "option_filters": {
+      "message": "Фильтры"
+   },
+   "option_whitelist": {
+      "message": "Список исключений"
+   },
+   "page_hard_whitelisted": {
+      "description": "TRANSLATE",
+      "message": "Домен в списке исключений"
+   },
+   "rate_us": {
+      "message": "Оценить нас"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "show_ads_on_this_page": {
+      "message": "Выключить для этого сайта"
+   },
+   "success": {
+      "message": "Успешно!"
+   },
+   "thank_you": {
+      "message": "Спасибо!"
+   },
+   "user_whitelist": {
+      "message": "Список исключений"
+   }
+}

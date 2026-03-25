@@ -1,0 +1,219 @@
+{
+   "add_custom_filter": {
+      "message": "Ajout de filtre personnalisé"
+   },
+   "add_exclusion": {
+      "message": "Ajouter une exclusion"
+   },
+   "add_own_filter": {
+      "message": "Ajouter un filtre personnalisé"
+   },
+   "add_to_whitelist": {
+      "message": "Ajouter à la liste blanche"
+   },
+   "adlock_desc": {
+      "description": "Displayed on Thank you page",
+      "message": "Une extension AdLock est une solution excellente pour bloquer les annonces dans Google Chrome. Mais les arnaqueurs peuvent compromettre votre ordinateur en utilisant les annonces dans les applications, les jeux, et des autres navigateurs. Si vous avez besoin d’une protection étendue, essayez AdLock pour Windows."
+   },
+   "adlock_turn_off": {
+      "description": "Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "désactiver"
+   },
+   "adlock_turn_on": {
+      "description": "Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "activer"
+   },
+   "app_desc": {
+      "message": "Block ads on your favourite websites, including video and audio ads on YouTube, Crunchyroll, Spotify, SoundCloud and KissAnime."
+   },
+   "blocked_all_time": {
+      "message": "Bloqué tout le temps"
+   },
+   "blocked_rule": {
+      "message": "Bloqué avec la règle : "
+   },
+   "blocked_this_page": {
+      "message": "Bloqué sur cette page"
+   },
+   "check_network": {
+      "message": "Vérifiez votre connexion au réseau et réessayez"
+   },
+   "check_updates": {
+      "message": "Verifier les mises à jour"
+   },
+   "check_url": {
+      "message": "Spécifiée.Vérifiez l’URL et répétez"
+   },
+   "checking_filter_updates": {
+      "message": "Vérification les mises à jour de filtre"
+   },
+   "click_check_updates": {
+      "message": "Cliquez sur Vérifier les mises à jour pour télécharger les règles"
+   },
+   "clipboard": {
+      "message": "Copié à presse-papiers"
+   },
+   "contact_us": {
+      "message": "noter"
+   },
+   "custom_filter_successfully_added": {
+      "message": "'$filter_name$' a été ajouté avec succès!",
+      "placeholders": {
+         "filter_name": {
+            "content": "$1"
+         }
+      }
+   },
+   "enter_whitelist": {
+      "message": "Entrez l’URL de la liste blanche ou le domaine"
+   },
+   "exclude_btn": {
+      "message": "exclure"
+   },
+   "fetch_rules": {
+      "message": "Impossible de récupérer les règles par l’URL."
+   },
+   "filter_desc_1001": {
+      "message": "Ensemble de règles pour Runet (segment russophone d’Internet)"
+   },
+   "filter_desc_1002": {
+      "message": "Ensemble de règles pour de nombreux sites Web anglais,"
+   },
+   "filter_desc_1003": {
+      "message": "Règles qui suppriment les tentatives de sites Web de suivre votre activité"
+   },
+   "filter_desc_1004": {
+      "message": "Règles qui protègent votre navigation contre l'espionage sur les réseaux sociaux"
+   },
+   "filter_desc_1005": {
+      "message": "Règles pour bloquer les PUBS sur la grande majorité des sites Web espagnols et portugais"
+   },
+   "filter_desc_1006": {
+      "message": "Règles pour bloquer les PUBS sur la grande majorité des sites Web allemand"
+   },
+   "filter_desc_1008": {
+      "message": "Règles pour bloquer les PUBS sur la grande majorité des sites Web néerlandais"
+   },
+   "filter_desc_1105": {
+      "message": "Règles pour bloquer les PUBS sur la grande majorité des sites Web tchèques et slovaques"
+   },
+   "filter_desc_1113": {
+      "message": "Règles pour bloquer les PUBS sur la grande majorité des sites Web français"
+   },
+   "filter_desc_1216": {
+      "message": "Règles pour bloquer les PUBS sur la grande majorité des sites Web polonais"
+   },
+   "filter_failed": {
+      "message": "La mise à jour du filtre a échoué!"
+   },
+   "filter_list": {
+      "message": "Liste des filtres"
+   },
+   "filter_name": {
+      "message": "Nom du filtre"
+   },
+   "filter_name_1001": {
+      "message": "Filtre russe"
+   },
+   "filter_name_1002": {
+      "message": "Filtre anglais"
+   },
+   "filter_name_1003": {
+      "message": "Filtre spyware"
+   },
+   "filter_name_1004": {
+      "message": "Filtre des médias sociaux"
+   },
+   "filter_name_1005": {
+      "message": "Filtre espagnol/Portugais"
+   },
+   "filter_name_1006": {
+      "message": "Filtre allemand"
+   },
+   "filter_name_1008": {
+      "message": "Filtre néerlandais"
+   },
+   "filter_name_1105": {
+      "message": "EasyList Tchèque et Slovaque,"
+   },
+   "filter_name_1113": {
+      "message": "Filtre français"
+   },
+   "filter_name_1216": {
+      "message": "Filtre polonais"
+   },
+   "filter_source": {
+      "message": "Source du filtre"
+   },
+   "filters_updated": {
+      "message": "Les filtres ont été mis à jour"
+   },
+   "get_adlock": {
+      "message": "Obtenez adlock pour Windows"
+   },
+   "get_it": {
+      "message": "Obtenir"
+   },
+   "ignore_btn": {
+      "message": "ignorer"
+   },
+   "last_update": {
+      "message": "Dernière mise à jour"
+   },
+   "malicious": {
+      "message": "Site malveillant bloqué: "
+   },
+   "maximum_protection": {
+      "description": "The \"maximum\" word should be emphasized",
+      "message": "Protection \u003Cstrong>maximale\u003C/strong> pour vos appareils"
+   },
+   "never": {
+      "message": "Jamais"
+   },
+   "never_loaded": {
+      "message": "n’a jamais été chargé ! "
+   },
+   "no_filters_update": {
+      "message": "Aucun filtre pour mettre à jour!"
+   },
+   "one_moment": {
+      "message": "Un moment"
+   },
+   "option_filters": {
+      "message": "Filtres"
+   },
+   "option_whitelist": {
+      "message": "Liste blanche"
+   },
+   "page_hard_whitelisted": {
+      "message": "Domaine dans la liste blanche"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "rate_us": {
+      "message": "noter"
+   },
+   "settings": {
+      "message": "Les paramètres"
+   },
+   "show_ads_on_this_page": {
+      "message": "Afficher les annonces sur page"
+   },
+   "success": {
+      "message": "Succès!"
+   },
+   "thank_you": {
+      "message": " Merci !"
+   },
+   "user_whitelist": {
+      "message": "Liste blanche personnalisée"
+   },
+   "we_recommend": {
+      "description": "Displayed on Thank you page",
+      "message": "Nous recommandons une protection totale!"
+   },
+   "you_are_cool": {
+      "message": "Vous êtes super aussi !  Restez tel que vous êtes."
+   }
+}
