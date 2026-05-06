@@ -1,37 +1,27 @@
-[14748:14604:0407/153249.285:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14748:14604:0407/153249.305:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
-[14748:14604:0407/153249.363:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14748:19816:0407/153254.103:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14748:19816:0407/153254.111:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14748:19816:0407/153254.119:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14748:19816:0407/153254.126:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14748:19816:0407/153258.845:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14748:19816:0407/153258.855:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[11080:10792:0407/153259.022:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D7E1561FA766AD3962366DF23CFA05EE will be ignored
-[14748:19492:0407/153259.063:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14748:8812:0407/153300.099:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[14748:14604:0407/153300.175:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[14748:14604:0407/153300.176:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[14748:14604:0407/153300.176:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[14748:14604:0407/153300.176:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[14748:8812:0407/153300.181:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[4664:20124:0407/153511.064:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[4664:20124:0407/153511.065:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[14748:14604:0407/180403.725:ERROR:device_event_log_impl.cc(196)] [18:04:03.490] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0407/211411.381:ERROR:device_event_log_impl.cc(196)] [21:14:11.367] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0408/011703.287:ERROR:device_event_log_impl.cc(196)] [01:17:03.177] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0408/050415.261:ERROR:device_event_log_impl.cc(196)] [05:04:15.204] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0408/071244.720:ERROR:device_event_log_impl.cc(196)] [07:12:44.710] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0408/081102.389:ERROR:device_event_log_impl.cc(196)] [08:11:02.197] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0408/221758.392:ERROR:device_event_log_impl.cc(196)] [22:17:58.377] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0409/013926.618:ERROR:device_event_log_impl.cc(196)] [01:39:26.489] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0409/023009.153:ERROR:device_event_log_impl.cc(196)] [02:30:09.137] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:20000:0409/035339.990:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[10096:5908:0409/035340.141:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14748:14604:0409/220520.517:ERROR:device_event_log_impl.cc(196)] [22:05:15.965] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0410/000823.467:ERROR:device_event_log_impl.cc(196)] [00:08:22.968] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[10096:20164:0410/000837.557:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14748:19816:0410/000837.585:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14748:19816:0410/072254.762:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14748:14604:0411/101051.161:ERROR:device_event_log_impl.cc(196)] [10:10:50.760] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[14748:14604:0411/104539.598:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21932:16272:0506/061615.732:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21932:16272:0506/061616.564:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21932:10508:0506/061625.747:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21932:10508:0506/061625.778:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21932:10508:0506/061625.786:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21932:10508:0506/061625.815:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21932:20956:0506/061626.831:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21932:20956:0506/061626.841:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6312:2060:0506/061627.136:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-26BE51F76764DAF26B8A05C2550C137E will be ignored
+[21932:3704:0506/061627.640:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21932:21472:0506/061628.687:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,5]
+[21932:16272:0506/061631.274:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[21932:16272:0506/061631.275:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[21932:16272:0506/061631.275:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[21932:16272:0506/061631.275:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[21932:21472:0506/061631.280:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[2548:20500:0506/061633.724:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2548:20500:0506/061635.104:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2548:568:0506/061635.123:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2548:568:0506/061635.123:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2548:568:0506/061635.124:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20676:21312:0506/061641.972:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20676:21312:0506/061641.972:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20676:21312:0506/061641.972:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10772:13660:0506/061843.013:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10772:13660:0506/061843.014:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[21932:16272:0506/064044.792:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
