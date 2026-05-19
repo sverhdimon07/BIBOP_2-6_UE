@@ -14,8 +14,8 @@
 	{
 		"MajorVersion": 5,
 		"MinorVersion": 7,
-		"PatchVersion": 3,
-		"Changelist": 50162420,
+		"PatchVersion": 4,
+		"Changelist": 51494982,
 		"CompatibleChangelist": 47537391,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
@@ -23,698 +23,6 @@
 		"BuildId": "47537391"
 	},
 	"BuildProducts": [
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-BIBOP_2dash6.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-BIBOP_2dash6.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/McpAutomationBridge/Binaries/Win64/UnrealEditor-McpAutomationBridge.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/McpAutomationBridge/Binaries/Win64/UnrealEditor-McpAutomationBridge.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/McpAutomationBridge/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor-VisualStudioBlueprintDebuggerHelper.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor-VisualStudioBlueprintDebuggerHelper.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor-VisualStudioTools.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor-VisualStudioTools.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/ar/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/esfUsd/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/esf/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/execGeom/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/execUsd/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/exec/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/glf/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/glf/resources/shaders/pcfShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/glf/resources/shaders/simpleLighting.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdGp/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/basisCurves.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/compute.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/domeLight.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/edgeId.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/fallbackLighting.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/fallbackLightingShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/fallbackMaterialNetwork.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/fallbackVolume.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/frustumCull.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/imageShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/instancing.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/invalidMaterialNetwork.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/mesh.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/meshFaceCull.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/meshNormal.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/meshWire.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/overlayShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/pointDisk.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/pointId.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/points.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/ptexTexture.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/renderPass.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/renderPassShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/simpleLightingShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/surfaceHelpers.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/terminals.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/visibility.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/volume.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/textures/fallbackBlackDomeLight.png",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdStorm/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hd/resources/codegenTemplates/schemaClass.cpp",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hd/resources/codegenTemplates/schemaClass.h",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hd/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdsi/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/boundingBox.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/colorChannel.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/colorCorrection.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/fullscreen.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/oitResolveImageShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/outline.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPass.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassColorAndSelectionShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassColorShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassColorWithOccludedSelectionShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassOitOpaqueShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassOitShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassOitVolumeShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassPickingShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassShadowShader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/selection.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/skydome.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/visualize.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/textures/StinsonBeach.hdr",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/textures/StinsonBeach.tex",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hgiGL/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hioAvif/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hio/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/sdf/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/sdrGlslfx/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/sdr/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/ueCloth/clothSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/ueCloth/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/ueCloth/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/unreal/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/unreal/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/unreal/resources/unreal/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdAbc/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdGeomValidators/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdGeom/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdGeom/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdGeom/resources/usdGeom/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/shaders/empty.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/shaders/shaderDefs.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/usdHydra/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdImagingGL/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdImaging/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdLux/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdLux/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdLux/resources/usdLux/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMedia/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMedia/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMedia/resources/usdMedia/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMtlx/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMtlx/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMtlx/resources/usdMtlx/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdPhysicsValidators/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdPhysics/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdPhysics/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdPhysics/resources/usdPhysics/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdProcImaging/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdProc/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdProc/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdProc/resources/usdProc/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRender/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRender/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRender/resources/usdRender/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRiPxrImaging/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRi/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRi/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRi/resources/usdRi/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSemantics/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSemantics/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSemantics/resources/usdSemantics/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShadeValidators/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShade/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShade/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShade/resources/usdShade/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/previewSurface.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/primvarReader.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/shaderDefs.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/transform2d.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/uvTexture.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkelImaging/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkelImaging/resources/shaders/skinning.glslfx",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkelValidators/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkel/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkel/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkel/resources/usdSkel/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdUI/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdUI/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdUI/resources/usdUI/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdUtilsValidators/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdValidation/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdVolImaging/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdVol/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdVol/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdVol/resources/usdVol/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/CMakeLists.txt",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/__init__.py",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/api.h",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/generatedSchema.classes.txt",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/generatedSchema.module.h",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/module.cpp",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/moduleDeps.cpp",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/schema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/schemaClass.cpp",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/schemaClass.h",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/schemaUserDoc.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/tokens.cpp",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/tokens.h",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/wrapSchemaClass.cpp",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/wrapTokens.cpp",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/generatedSchema.usda",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/plugInfo.json",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/usd/schema.usda",
-			"Type": "RequiredResource"
-		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.dll",
 			"Type": "DynamicLibrary"
@@ -1616,15 +924,7 @@
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-LiveLinkAnimationCore.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-LiveLinkInterface.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-LiveLinkMessageBusFramework.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -2596,14 +1896,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/hdStorm.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/hioAvif.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/oo2tex_win64_2.9.10.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2641,314 +1933,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/oo2tex_win64_2.9.9.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/python311.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/sdrGlslfx.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/tbb12.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/tbbmalloc.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usdAbc.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usdShaders.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_ar.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_arch.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_boost.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_cameraUtil.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_ef.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_esf.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_esfUsd.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_exec.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_execGeom.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_execUsd.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_garch.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_geomUtil.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_gf.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_glf.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hd.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdGp.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdMtlx.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdSt.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdar.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdsi.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdx.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hf.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hgi.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hgiGL.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hgiInterop.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hio.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_js.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_kind.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_pcp.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_pegtl.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_plug.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_pxOsd.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_python.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_sdf.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_sdr.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_tf.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_trace.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_ts.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usd.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdAppUtils.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdBakeMtlx.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdGeom.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdGeomValidators.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdHydra.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdImaging.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdImagingGL.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdLux.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdMedia.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdMtlx.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdPhysics.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdPhysicsValidators.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdProc.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdProcImaging.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdRender.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdRi.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdRiPxrImaging.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdSemantics.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdShade.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdShadeValidators.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdSkel.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdSkelImaging.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdSkelValidators.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdUI.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdUtils.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdUtilsValidators.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdValidation.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdVol.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdVolImaging.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_vdf.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_vt.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_work.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -3121,38 +2105,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Animation/IKRig/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/Binaries/Win64/UnrealEditor-LiveLink.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/Binaries/Win64/UnrealEditor-LiveLinkComponents.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/Binaries/Win64/UnrealEditor-LiveLinkEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/Binaries/Win64/UnrealEditor-LiveLinkGraphNode.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/Binaries/Win64/UnrealEditor-LiveLinkMovieScene.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/Binaries/Win64/UnrealEditor-LiveLinkMultiUser.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/Binaries/Win64/UnrealEditor-LiveLinkSequencer.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -3345,42 +2297,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor-Concert.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor-ConcertClient.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor-ConcertServer.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor-ConcertTransport.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Binaries/Win64/UnrealEditor-ConcertSyncClient.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncCore/Binaries/Win64/UnrealEditor-ConcertSyncCore.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncCore/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -4116,14 +3032,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GameplayTargetingSystem/Binaries/Win64/UnrealEditor-TargetingSystem.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GameplayTargetingSystem/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Experimental/GeometryCollectionPlugin/Binaries/Win64/UnrealEditor-GeometryCollectionDepNodes.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -4417,26 +3325,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Interchange/Editor/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Interchange/Extensions/OpenUSD/Binaries/Win64/UnrealEditor-InterchangeOpenUSDEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Interchange/Extensions/OpenUSD/Binaries/Win64/UnrealEditor-InterchangeOpenUSDImport.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Interchange/Extensions/OpenUSD/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Interchange/Extensions/OpenVDB/Binaries/Win64/UnrealEditor-InterchangeOpenVDBImport.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Interchange/Extensions/OpenVDB/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -4984,43 +3872,11 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/DataRegistry/Binaries/Win64/UnrealEditor-DataRegistry.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/DataRegistry/Binaries/Win64/UnrealEditor-DataRegistryEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/DataRegistry/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/Database/SQLiteCore/Binaries/Win64/UnrealEditor-SQLiteCore.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/Database/SQLiteCore/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UnrealEditor-ExampleDeviceProfileSelector.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GameplayAbilities/Binaries/Win64/UnrealEditor-GameplayAbilities.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GameplayAbilities/Binaries/Win64/UnrealEditor-GameplayAbilitiesEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GameplayAbilities/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -5069,18 +3925,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/GeometryProcessing/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GeometryScripting/Binaries/Win64/UnrealEditor-GeometryScriptingCore.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GeometryScripting/Binaries/Win64/UnrealEditor-GeometryScriptingEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GeometryScripting/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -5145,74 +3989,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassActors.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassCommon.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassEQS.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassGameplayDebug.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassGameplayEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassGameplayExternalTraits.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassGameplayTestSuite.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassLOD.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassMovement.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassMovementEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassReplication.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassRepresentation.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassSignals.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassSimulation.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassSmartObjects.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor-MassSpawner.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -5368,22 +4144,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/SmartObjects/Binaries/Win64/UnrealEditor-SmartObjectsEditorModule.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/SmartObjects/Binaries/Win64/UnrealEditor-SmartObjectsModule.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/SmartObjects/Binaries/Win64/UnrealEditor-SmartObjectsTestSuite.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/SmartObjects/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/SoundFields/Binaries/Win64/UnrealEditor-SoundFields.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -5421,22 +4181,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Synthesis/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/USDCore/Binaries/Win64/UnrealEditor-USDClasses.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/USDCore/Binaries/Win64/UnrealEditor-USDUtilities.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/USDCore/Binaries/Win64/UnrealEditor-UnrealUSDWrapper.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/USDCore/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -5481,50 +4225,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Windows/XInputDevice/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/WorldConditions/Binaries/Win64/UnrealEditor-WorldConditions.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/WorldConditions/Binaries/Win64/UnrealEditor-WorldConditionsEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/WorldConditions/Binaries/Win64/UnrealEditor-WorldConditionsTestSuite.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/WorldConditions/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ZoneGraphAnnotations/Binaries/Win64/UnrealEditor-ZoneGraphAnnotations.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ZoneGraphAnnotations/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ZoneGraph/Binaries/Win64/UnrealEditor-ZoneGraph.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ZoneGraph/Binaries/Win64/UnrealEditor-ZoneGraphDebug.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ZoneGraph/Binaries/Win64/UnrealEditor-ZoneGraphEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ZoneGraph/Binaries/Win64/UnrealEditor-ZoneGraphTestSuite.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ZoneGraph/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -5622,21 +4322,41 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-BIBOP_2dash6.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-BIBOP_2dash6.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor-VisualStudioBlueprintDebuggerHelper.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor-VisualStudioBlueprintDebuggerHelper.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor-VisualStudioTools.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor-VisualStudioTools.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
-		{
-			"Path": "$(ProjectDir)/BIBOP_2dash6.uproject",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/McpAutomationBridge/McpAutomationBridge.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/VisualStudioTools.uplugin",
-			"Type": "UFS"
-		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
 			"Type": "NonUFS"
@@ -25078,682 +23798,6 @@
 			"Type": "NonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/Arm64/plugins/hd/resources/codegenTemplates/schemaClass.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/Arm64/plugins/usd/resources/codegenTemplates/module.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/Arm64/plugins/usd/resources/codegenTemplates/moduleDeps.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/Arm64/plugins/usd/resources/codegenTemplates/schemaClass.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/Arm64/plugins/usd/resources/codegenTemplates/tokens.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/Arm64/plugins/usd/resources/codegenTemplates/wrapSchemaClass.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/Arm64/plugins/usd/resources/codegenTemplates/wrapTokens.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/ar/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/esfUsd/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/esf/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/execGeom/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/execUsd/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/exec/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/glf/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/glf/resources/shaders/pcfShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/glf/resources/shaders/simpleLighting.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdGp/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/basisCurves.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/compute.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/domeLight.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/edgeId.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/fallbackLighting.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/fallbackLightingShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/fallbackMaterialNetwork.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/fallbackVolume.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/frustumCull.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/imageShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/instancing.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/invalidMaterialNetwork.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/mesh.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/meshFaceCull.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/meshNormal.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/meshWire.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/overlayShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/pointDisk.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/pointId.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/points.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/ptexTexture.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/renderPass.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/renderPassShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/simpleLightingShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/surfaceHelpers.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/terminals.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/visibility.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/shaders/volume.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdSt/resources/textures/fallbackBlackDomeLight.png",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdStorm/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hd/resources/codegenTemplates/schemaClass.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hd/resources/codegenTemplates/schemaClass.h",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hd/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdsi/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/boundingBox.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/colorChannel.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/colorCorrection.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/fullscreen.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/oitResolveImageShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/outline.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPass.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassColorAndSelectionShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassColorShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassColorWithOccludedSelectionShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassOitOpaqueShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassOitShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassOitVolumeShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassPickingShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/renderPassShadowShader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/selection.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/skydome.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/shaders/visualize.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/textures/StinsonBeach.hdr",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hdx/resources/textures/StinsonBeach.tex",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hgiGL/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hioAvif/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/hio/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/sdf/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/sdrGlslfx/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/sdr/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/ueCloth/clothSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/ueCloth/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/ueCloth/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/unreal/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/unreal/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/unreal/resources/unreal/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdAbc/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdGeomValidators/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdGeom/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdGeom/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdGeom/resources/usdGeom/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/shaders/empty.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/shaders/shaderDefs.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdHydra/resources/usdHydra/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdImagingGL/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdImaging/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdLux/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdLux/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdLux/resources/usdLux/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMedia/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMedia/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMedia/resources/usdMedia/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMtlx/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMtlx/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdMtlx/resources/usdMtlx/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdPhysicsValidators/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdPhysics/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdPhysics/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdPhysics/resources/usdPhysics/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdProcImaging/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdProc/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdProc/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdProc/resources/usdProc/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRender/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRender/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRender/resources/usdRender/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRiPxrImaging/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRi/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRi/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdRi/resources/usdRi/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSemantics/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSemantics/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSemantics/resources/usdSemantics/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShadeValidators/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShade/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShade/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShade/resources/usdShade/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/previewSurface.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/primvarReader.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/shaderDefs.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/transform2d.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdShaders/resources/shaders/uvTexture.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkelImaging/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkelImaging/resources/shaders/skinning.glslfx",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkelValidators/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkel/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkel/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdSkel/resources/usdSkel/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdUI/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdUI/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdUI/resources/usdUI/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdUtilsValidators/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdValidation/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdVolImaging/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdVol/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdVol/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usdVol/resources/usdVol/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/CMakeLists.txt",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/__init__.py",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/api.h",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/generatedSchema.classes.txt",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/generatedSchema.module.h",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/module.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/moduleDeps.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/schemaClass.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/schemaClass.h",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/schemaUserDoc.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/tokens.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/tokens.h",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/wrapSchemaClass.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/codegenTemplates/wrapTokens.cpp",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/generatedSchema.usda",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/plugInfo.json",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/USD/UsdResources/Win64/X64/plugins/usd/resources/usd/schema.usda",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
 			"Type": "NonUFS"
 		},
@@ -26906,14 +24950,6 @@
 			"Type": "NonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/hdStorm.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/hioAvif.dll",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/oo2tex_win64_2.9.10.dll",
 			"Type": "NonUFS"
 		},
@@ -26951,314 +24987,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/oo2tex_win64_2.9.9.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/python311.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/sdrGlslfx.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/tbb12.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/tbbmalloc.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usdAbc.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usdShaders.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_ar.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_arch.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_boost.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_cameraUtil.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_ef.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_esf.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_esfUsd.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_exec.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_execGeom.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_execUsd.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_garch.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_geomUtil.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_gf.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_glf.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hd.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdGp.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdMtlx.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdSt.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdar.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdsi.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hdx.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hf.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hgi.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hgiGL.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hgiInterop.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_hio.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_js.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_kind.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_pcp.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_pegtl.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_plug.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_pxOsd.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_python.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_sdf.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_sdr.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_tf.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_trace.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_ts.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usd.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdAppUtils.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdBakeMtlx.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdGeom.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdGeomValidators.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdHydra.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdImaging.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdImagingGL.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdLux.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdMedia.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdMtlx.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdPhysics.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdPhysicsValidators.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdProc.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdProcImaging.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdRender.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdRi.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdRiPxrImaging.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdSemantics.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdShade.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdShadeValidators.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdSkel.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdSkelImaging.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdSkelValidators.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdUI.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdUtils.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdUtilsValidators.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdValidation.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdVol.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_usdVolImaging.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_vdf.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_vt.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/usd_work.dll",
 			"Type": "NonUFS"
 		},
 		{
@@ -30394,10 +28122,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Animation/LiveLink/LiveLink.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Animation/RigLogic/RigLogic.uplugin",
 			"Type": "UFS"
 		},
@@ -30463,18 +28187,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Developer/CLionSourceCodeAccess/CLionSourceCodeAccess.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertMain/ConcertMain.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/ConcertSyncClient.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Developer/Concert/ConcertSync/ConcertSyncCore/ConcertSyncCore.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -30714,6 +28426,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/ChaosModularVehicleExamples/ChaosModularVehicleExamples.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/ChaosNiagara/ChaosNiagara.uplugin",
 			"Type": "UFS"
 		},
@@ -30763,10 +28479,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/FullBodyIK/FullBodyIK.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Experimental/GameplayTargetingSystem/TargetingSystem.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -30859,14 +28571,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Interchange/Editor/InterchangeEditor.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Interchange/Extensions/OpenUSD/InterchangeOpenUSD.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Interchange/Extensions/OpenVDB/InterchangeOpenVDB.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -31062,19 +28766,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/DataRegistry/DataRegistry.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/Database/SQLiteCore/SQLiteCore.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GameplayAbilities/GameplayAbilities.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -31087,10 +28779,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/GeometryProcessing/GeometryProcessing.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GeometryScripting/GeometryScripting.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -31107,10 +28795,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/LocationServicesBPLibrary/LocationServicesBPLibrary.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/MassGameplay/MassGameplay.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -31154,10 +28838,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/SmartObjects/SmartObjects.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/SoundFields/SoundFields.uplugin",
 			"Type": "UFS"
 		},
@@ -31167,10 +28847,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Synthesis/Synthesis.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/USDCore/USDCore.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -31191,18 +28867,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Windows/XInputDevice/XInputDevice.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/WorldConditions/WorldConditions.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ZoneGraphAnnotations/ZoneGraphAnnotations.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/ZoneGraph/ZoneGraph.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -31227,6 +28891,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/BIBOP_2dash6.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/VisualStudioTools/VisualStudioTools.uplugin",
 			"Type": "UFS"
 		}
 	],
@@ -31271,6 +28943,7 @@
 		"ChaosCloth",
 		"ChaosEditor",
 		"ChaosInsights",
+		"ChaosModularVehicleExamples",
 		"ChaosNiagara",
 		"ChaosSolverPlugin",
 		"ChaosUserDataPT",
@@ -31283,9 +28956,6 @@
 		"ColorGrading",
 		"CompositeCore",
 		"ComputeFramework",
-		"ConcertMain",
-		"ConcertSyncClient",
-		"ConcertSyncCore",
 		"ContentBrowserAssetDataSource",
 		"ContentBrowserClassDataSource",
 		"ContentBrowserFileDataSource",
@@ -31295,7 +28965,6 @@
 		"CryptoKeys",
 		"CurveEditorTools",
 		"CustomMeshComponent",
-		"DataRegistry",
 		"DataValidation",
 		"Dataflow",
 		"DatasmithContent",
@@ -31320,7 +28989,6 @@
 		"FullBodyIK",
 		"GLTFExporter",
 		"GPUReshape",
-		"GameplayAbilities",
 		"GameplayCameras",
 		"GameplayInsights",
 		"GameplayStateTree",
@@ -31331,7 +28999,6 @@
 		"GeometryFlow",
 		"GeometryMode",
 		"GeometryProcessing",
-		"GeometryScripting",
 		"GitSourceControl",
 		"GlobalConfigurationData",
 		"GoogleCloudMessaging",
@@ -31344,8 +29011,6 @@
 		"Interchange",
 		"InterchangeAssets",
 		"InterchangeEditor",
-		"InterchangeOpenUSD",
-		"InterchangeOpenVDB",
 		"InterchangeTests",
 		"IoStoreInsights",
 		"KDevelopSourceCodeAccess",
@@ -31354,14 +29019,11 @@
 		"LevelSequenceNavigatorBridge",
 		"LightMixer",
 		"LinuxDeviceProfileSelector",
-		"LiveLink",
 		"LocalizableMessage",
 		"LocationServicesBPLibrary",
 		"MacGraphicsSwitching",
-		"MassGameplay",
 		"MassInsights",
 		"MaterialAnalyzer",
-		"McpAutomationBridge",
 		"MediaCompositing",
 		"MediaPlate",
 		"MediaPlayerEditor",
@@ -31417,7 +29079,6 @@
 		"RigLogic",
 		"RigVM",
 		"RuntimeTelemetry",
-		"SQLiteCore",
 		"SequenceNavigator",
 		"SequenceValidator",
 		"SequencerAnimTools",
@@ -31425,7 +29086,6 @@
 		"SignificanceManager",
 		"SkeletalMeshModelingTools",
 		"SkeletalReduction",
-		"SmartObjects",
 		"SoundFields",
 		"SpeedTreeImporter",
 		"StateTree",
@@ -31433,7 +29093,6 @@
 		"SubversionSourceControl",
 		"Synthesis",
 		"Takes",
-		"TargetingSystem",
 		"TcpMessaging",
 		"TemplateSequence",
 		"TextureFormatOodle",
@@ -31442,7 +29101,6 @@
 		"TweeningUtils",
 		"UMGWidgetPreview",
 		"UObjectPlugin",
-		"USDCore",
 		"UVEditor",
 		"UbaController",
 		"UdpMessaging",
@@ -31457,14 +29115,11 @@
 		"WindowsDeviceProfileSelector",
 		"WindowsMoviePlayer",
 		"WmfMedia",
-		"WorldConditions",
 		"WorldMetrics",
 		"WorldPartitionHLODUtilities",
 		"XCodeSourceCodeAccess",
 		"XGEController",
-		"XInputDevice",
-		"ZoneGraph",
-		"ZoneGraphAnnotations"
+		"XInputDevice"
 	],
 	"AdditionalProperties": [
 		{
