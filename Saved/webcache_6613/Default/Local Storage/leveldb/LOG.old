@@ -1,3 +1,8 @@
-2026/05/06-01:39:33.207 34a0 Reusing MANIFEST S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/06-01:39:33.224 34a0 Recovering log #4
-2026/05/06-01:39:33.230 34a0 Reusing old log S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/05/19-04:33:24.050 40a4 Reusing MANIFEST S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/19-04:33:24.063 40a4 Recovering log #6
+2026/05/19-04:33:24.063 40a4 Level-0 table #9: started
+2026/05/19-04:33:24.070 40a4 Level-0 table #9: 69395 bytes OK
+2026/05/19-04:33:24.071 40a4 Recovering log #9
+2026/05/19-04:33:24.075 40a4 Reusing old log S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Local Storage\leveldb/000009.log 
+2026/05/19-04:33:24.077 40a4 Delete type=0 #6
+2026/05/19-04:33:24.077 40a4 Delete type=2 #10

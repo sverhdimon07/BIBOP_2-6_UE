@@ -1,0 +1,27 @@
+[24348:22080:0519/040027.001:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24348:22080:0519/040027.356:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24348:23804:0519/040037.646:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24348:23804:0519/040037.654:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24348:23804:0519/040037.662:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24348:23804:0519/040037.671:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24348:16308:0519/040039.303:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24348:16308:0519/040039.315:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24348:24512:0519/040039.468:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22720:22172:0519/040039.624:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CF23AFD8FEDC22D727D0ECE9F30EF686 will be ignored
+[24348:2780:0519/040040.468:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[24348:22080:0519/040040.759:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[24348:22080:0519/040040.759:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[24348:22080:0519/040040.759:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[24348:22080:0519/040040.759:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[24348:2780:0519/040040.771:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[23420:24880:0519/040046.080:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23420:24880:0519/040046.448:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23420:8532:0519/040046.464:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23420:8532:0519/040046.465:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23420:8532:0519/040046.465:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24820:15640:0519/040053.092:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24820:15640:0519/040053.092:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24820:15640:0519/040053.092:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24084:17380:0519/040255.426:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[24084:17380:0519/040255.427:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[24348:22080:0519/042745.141:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

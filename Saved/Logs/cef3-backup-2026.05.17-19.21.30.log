@@ -1,0 +1,155 @@
+[31924:39980:0517/213740.697:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31924:39980:0517/213740.776:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31924:39632:0517/213745.123:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31924:39632:0517/213745.131:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31924:39632:0517/213745.139:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31924:39632:0517/213745.146:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31924:36744:0517/213751.556:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31924:36744:0517/213751.576:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31924:38484:0517/213751.651:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33924:35888:0517/213752.053:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-20B6910BD550BFC39CE94E82076364AC will be ignored
+[31924:39980:0517/214139.002:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214144.003:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214249.030:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214254.032:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214344.671:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214349.672:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214354.684:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214359.687:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214624.725:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214629.728:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214634.727:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214639.727:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214649.731:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214654.732:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214659.733:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214704.735:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214709.734:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214714.738:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214719.739:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214724.739:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214729.740:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214734.742:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214739.742:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214744.742:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214749.743:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214754.746:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214759.748:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214804.747:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214809.748:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214814.749:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214819.751:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214824.751:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214829.752:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214834.753:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214839.753:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214844.754:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214849.755:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214854.757:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214859.758:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214904.760:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214909.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214914.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214919.764:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214924.765:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214929.768:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214934.768:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214939.768:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214944.768:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214949.768:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214954.768:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/214959.768:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215004.770:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215009.770:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215014.772:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215019.773:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215024.774:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215029.775:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215034.775:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215039.777:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215044.777:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215049.778:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215054.779:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215059.779:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215104.779:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215109.782:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215114.783:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215119.784:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215124.785:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215129.786:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215134.788:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215139.790:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215144.793:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215149.794:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215154.795:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215159.798:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215204.798:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215209.798:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215214.799:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215219.800:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215224.801:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215229.803:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215234.804:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215239.805:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215244.807:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215249.808:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215254.809:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215259.811:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215304.812:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215309.813:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215314.813:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215319.814:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215324.814:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215329.816:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215334.817:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215339.818:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215344.818:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215349.819:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215354.821:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215359.821:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215404.822:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215409.823:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215414.826:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215419.825:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215424.826:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215429.828:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215434.829:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215439.831:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215444.832:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215449.832:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215454.834:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215459.833:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215504.835:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215509.836:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215514.837:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/215519.838:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31924:39980:0517/221829.243:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[31924:39980:0517/221829.596:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[31924:39980:0517/221829.596:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[31924:39980:0517/221830.418:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31924:39980:0517/221831.756:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 455 ms
+[36772:40820:0517/221836.452:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 9
+[31924:39980:0517/221910.094:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[31924:39980:0517/221910.094:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 2 time(s)
+[31924:39980:0517/221910.097:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[31924:39980:0517/221910.099:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31924:39980:0517/221911.434:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 277 ms
+[31924:39980:0517/222129.350:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31924:39980:0517/222129.353:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[31924:39980:0517/222129.354:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[31924:39980:0517/222129.354:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
+[31924:39980:0517/222130.274:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[38440:25664:0517/222130.353:ERROR:angle_platform_impl.cc(44)] vk_renderer.cpp:180 (rx::vk::(anonymous namespace)::VerifyExtensionsPresent): Extension not supported: VK_KHR_surface
+[38440:25664:0517/222130.353:ERROR:angle_platform_impl.cc(44)] vk_renderer.cpp:180 (rx::vk::(anonymous namespace)::VerifyExtensionsPresent): Extension not supported: VK_KHR_win32_surface
+[38440:25664:0517/222130.353:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (egl::Display::initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-7): A requested extension is not supported, in ..\..\third_party\angle\src\libANGLE\renderer\vulkan\vk_renderer.cpp, rx::vk::Renderer::enableInstanceExtensions:1780.
+[38440:25664:0517/222130.353:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-7): A requested extension is not supported, in ..\..\third_party\angle\src\libANGLE\renderer\vulkan\vk_renderer.cpp, rx::vk::Renderer::enableInstanceExtensions:1780.
+[38440:25664:0517/222130.353:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[38440:25664:0517/222130.353:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[38440:25664:0517/222130.353:ERROR:gl_initializer_win.cc(135)] GLDisplayEGL::Initialize failed.
+[38440:25664:0517/222130.366:ERROR:angle_platform_impl.cc(44)] vk_renderer.cpp:180 (rx::vk::(anonymous namespace)::VerifyExtensionsPresent): Extension not supported: VK_KHR_surface
+[38440:25664:0517/222130.366:ERROR:angle_platform_impl.cc(44)] vk_renderer.cpp:180 (rx::vk::(anonymous namespace)::VerifyExtensionsPresent): Extension not supported: VK_KHR_win32_surface
+[38440:25664:0517/222130.367:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (egl::Display::initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-7): A requested extension is not supported, in ..\..\third_party\angle\src\libANGLE\renderer\vulkan\vk_renderer.cpp, rx::vk::Renderer::enableInstanceExtensions:1780.
+[38440:25664:0517/222130.367:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-7): A requested extension is not supported, in ..\..\third_party\angle\src\libANGLE\renderer\vulkan\vk_renderer.cpp, rx::vk::Renderer::enableInstanceExtensions:1780.
+[38440:25664:0517/222130.367:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[38440:25664:0517/222130.367:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[38440:25664:0517/222130.367:ERROR:gl_initializer_win.cc(135)] GLDisplayEGL::Initialize failed.
