@@ -1,3 +1,20 @@
-2026/05/19-04:54:46.783 15cc Reusing MANIFEST S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/19-04:54:46.794 15cc Recovering log #9
-2026/05/19-04:54:46.798 15cc Reusing old log S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Local Storage\leveldb/000009.log 
+2026/05/19-21:25:01.357 3414 Reusing MANIFEST S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/19-21:25:01.369 3414 Recovering log #17
+2026/05/19-21:25:01.373 3414 Reusing old log S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Local Storage\leveldb/000017.log 
+2026/05/19-21:29:02.172 6404 Level-0 table #21: started
+2026/05/19-21:29:02.181 6404 Level-0 table #21: 65618 bytes OK
+2026/05/19-21:29:02.184 6404 Delete type=0 #17
+2026/05/19-21:29:02.185 6404 Compacting 4@0 + 1@1 files
+2026/05/19-21:29:02.192 6404 Generated table #22@0: 11 keys, 33449 bytes
+2026/05/19-21:29:02.192 6404 Compacted 4@0 + 1@1 files => 33449 bytes
+2026/05/19-21:29:02.193 6404 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/19-21:29:02.195 6404 Delete type=2 #12
+2026/05/19-21:29:02.195 6404 Delete type=2 #14
+2026/05/19-21:29:02.195 6404 Delete type=2 #16
+2026/05/19-21:29:02.195 6404 Delete type=2 #18
+2026/05/19-21:29:02.195 6404 Delete type=2 #21
+2026/05/19-21:32:02.180 6404 Level-0 table #24: started
+2026/05/19-21:32:02.187 6404 Level-0 table #24: 70778 bytes OK
+2026/05/19-21:32:02.189 6404 Delete type=0 #20
+2026/05/19-21:33:23.099 68ac Level-0 table #26: started
+2026/05/19-21:33:23.106 68ac Level-0 table #26: 72293 bytes OK
