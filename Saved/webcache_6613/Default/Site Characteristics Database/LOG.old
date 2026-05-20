@@ -1,3 +1,5 @@
-2026/05/19-23:56:57.723 54cc Reusing MANIFEST D:\UNREAL ENGINE\UE BACKUP\BIBOP\BIBOP_2-6_UE\BIBOP_2-6_UE\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/05/19-23:56:57.724 54cc Recovering log #3
-2026/05/19-23:56:57.724 54cc Reusing old log D:\UNREAL ENGINE\UE BACKUP\BIBOP\BIBOP_2-6_UE\BIBOP_2-6_UE\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/05/20-01:19:18.671 2244 Log #3: 6 ops saved to Table #4 OK
+2026/05/20-01:19:18.685 2244 Archiving S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/05/20-01:19:18.685 2244 Table #4: 6 entries OK
+2026/05/20-01:19:18.688 2244 Archiving S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/05/20-01:19:18.700 2244 **** Repaired leveldb S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 289 bytes. Some data may have been lost. ****

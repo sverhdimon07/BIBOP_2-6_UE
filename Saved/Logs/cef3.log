@@ -1,4 +1,79 @@
-[13112:23492:0520/003338.864:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[13112:23492:0520/003339.175:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23892:16464:0520/003344.799:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FB750992F08474C2C79EC2C9D92B2301 will be ignored
-[13112:23492:0520/004039.034:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16940:13948:0520/011918.276:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16940:13948:0520/011918.395:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[16940:13948:0520/011918.605:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16940:12240:0520/011928.595:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16940:12240:0520/011928.601:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16940:12240:0520/011928.608:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16940:12240:0520/011928.616:WARNING:leveldb_database.cc(141)] Unable to open S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: S:\UNREAL ENGINE\UE BACKUP\BIBOP_2-6_UE\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16940:17704:0520/011930.138:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16940:17704:0520/011930.146:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2812:3780:0520/011930.430:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A341E71596A619A8BA1D043215493E0A will be ignored
+[16940:17316:0520/011931.337:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[16940:13948:0520/011931.663:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[16940:13948:0520/011931.664:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[16940:13948:0520/011931.664:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[16940:13948:0520/011931.664:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[16940:17316:0520/011931.668:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13836:5724:0520/011935.778:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13836:5724:0520/011936.212:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13836:4684:0520/011936.235:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13836:4684:0520/011936.236:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13836:4684:0520/011936.237:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18308:5644:0520/011942.781:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[18308:5644:0520/011942.781:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[18308:5644:0520/011942.781:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[5748:5764:0520/012142.979:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5748:5764:0520/012142.979:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16940:13948:0520/023851.920:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[22464:15476:0520/023946.384:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 26-3E3A1970359494451D1A2ACD73A866AE will be ignored
+[18308:5644:0520/023948.015:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/023949.274:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/023957.724:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/023959.026:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/024005.298:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/024006.579:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10692:10168:0520/024014.980:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 33-6A00831B883A48B632C5385DE2E22573 will be ignored
+[18308:5644:0520/024016.805:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/024018.113:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16940:13948:0520/034038.253:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16940:13948:0520/042413.359:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23528:11348:0520/053628.217:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 34-CCE77E311CC64D68AB57659B5054A25F will be ignored
+[18308:5644:0520/053630.694:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053631.439:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 15
+[18308:5644:0520/053631.957:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053632.425:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
+[18308:5644:0520/053633.915:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053635.178:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053636.658:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053637.912:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053639.300:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053640.554:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053642.038:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053643.295:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053644.641:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053645.994:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053647.333:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053648.590:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053649.985:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053651.267:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053652.648:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053653.909:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053655.306:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053656.595:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053657.940:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053659.200:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053700.661:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053701.958:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053703.484:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053704.760:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053706.406:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053707.702:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053709.017:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053710.275:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053711.678:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053712.956:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053714.338:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053715.674:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053717.003:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18308:5644:0520/053718.265:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16940:13948:0520/060305.775:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,215 @@
+{
+   "add_custom_filter": {
+      "message": "Toevoegen aangepast filter"
+   },
+   "add_exclusion": {
+      "message": "Voeg uitzondering toe"
+   },
+   "add_own_filter": {
+      "message": "Voeg eigen filter toe"
+   },
+   "add_to_whitelist": {
+      "message": "Toevoegen aan whitelist"
+   },
+   "adlock_desc": {
+      "message": "De AdLock extensie is een geweldige aankoop om advertenties in Google Chrome te blokkeren. Maar oplichters kunnen op uw computer inbreken via advertenties in apps, spellen en andere browsers. Als u uitgebreide bescherming nodig heeft, moet u AdLock voor Windows op systeemniveau proberen."
+   },
+   "adlock_turn_off": {
+      "description": "TRANSLATE. Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "deactiveren"
+   },
+   "adlock_turn_on": {
+      "description": "TRANSLATE. Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "activeren"
+   },
+   "app_desc": {
+      "message": "Block ads on your favourite websites, including video and audio ads on YouTube, Crunchyroll, Spotify, SoundCloud and KissAnime."
+   },
+   "blocked_all_time": {
+      "message": "Altijd geblokkeerd"
+   },
+   "blocked_rule": {
+      "message": "Geblokkeerd door regel: "
+   },
+   "blocked_this_page": {
+      "message": "Geblokkeerd op deze pagina"
+   },
+   "check_network": {
+      "message": "Controleer uw netwerkverbinding en probeer het nogmaals"
+   },
+   "check_updates": {
+      "message": "controleer op updates"
+   },
+   "check_url": {
+      "message": "Controleer de URL en herhaal!"
+   },
+   "click_check_updates": {
+      "message": "Klik op Controleren op Updates om de regels te downloaden"
+   },
+   "clipboard": {
+      "message": "Gekopieerd vanaf klembord"
+   },
+   "contact_us": {
+      "message": "beoordeel ons"
+   },
+   "custom_filter_successfully_added": {
+      "message": "'$filter_name$' met succes toegevoegd!",
+      "placeholders": {
+         "filter_name": {
+            "content": "$1"
+         }
+      }
+   },
+   "enter_whitelist": {
+      "message": "Voeg whitelist URL of domein toe"
+   },
+   "exclude_btn": {
+      "message": "uitsluiten"
+   },
+   "fetch_rules": {
+      "message": "Kon regels niet ophalen vanaf de gespecificeerde URL."
+   },
+   "filter_desc_1001": {
+      "message": "Set van regels voor Runet (Russisch sprekend gedeelte van het internet)"
+   },
+   "filter_desc_1002": {
+      "message": "Set van regels voor vele Engelse websites"
+   },
+   "filter_desc_1003": {
+      "message": "Regels die pogingen van websites om uw activiteit te volgen in bedwang houden"
+   },
+   "filter_desc_1004": {
+      "message": "Regels die uw browsen beschermen van worden gevolgd door sociale netwerken"
+   },
+   "filter_desc_1005": {
+      "message": "Regels voor blokkeren ADVERTENTIE'S op de meeste Spaanse en Portugese websites"
+   },
+   "filter_desc_1006": {
+      "description": "TRANSLATE",
+      "message": "Regels voor blokkeren ADVERTENTIE'S op de meeste Duitse websites"
+   },
+   "filter_desc_1008": {
+      "description": "TRANSLATE",
+      "message": "Regels voor blokkeren ADVERTENTIE'S op de meeste Nederlandse websites"
+   },
+   "filter_desc_1105": {
+      "message": "Regels voor blokkeren ADVERTENTIE'S op de meeste Tsjechische en Slowaakse Websites"
+   },
+   "filter_desc_1216": {
+      "message": "Regels voor blokkeren ADVERTENTIE'S op de meeste Poolse websites"
+   },
+   "filter_failed": {
+      "message": "Filter bijwerken mislukt!"
+   },
+   "filter_list": {
+      "message": "Lijst van filters"
+   },
+   "filter_name": {
+      "message": "Naam filter"
+   },
+   "filter_name_1001": {
+      "message": "Russisch filter"
+   },
+   "filter_name_1002": {
+      "message": "Engels filter"
+   },
+   "filter_name_1003": {
+      "message": "Spyware filter"
+   },
+   "filter_name_1004": {
+      "message": "Sociaal media filter"
+   },
+   "filter_name_1005": {
+      "message": "Spaans/Portugees filter"
+   },
+   "filter_name_1006": {
+      "description": "TRANSLATE",
+      "message": "Duits filter"
+   },
+   "filter_name_1008": {
+      "description": "TRANSLATE",
+      "message": "Nederlands filter"
+   },
+   "filter_name_1105": {
+      "message": "Easylist Tsjechië en Slowakije"
+   },
+   "filter_name_1216": {
+      "message": "Pools filter"
+   },
+   "filter_source": {
+      "message": "Bron filter"
+   },
+   "filters_updated": {
+      "message": "Filters zijn bijgewerkt"
+   },
+   "get_adlock": {
+      "message": "Koop adlock voor windows"
+   },
+   "get_it": {
+      "message": "Koop het"
+   },
+   "ignore_btn": {
+      "message": "negeren"
+   },
+   "last_update": {
+      "message": "Laatste update"
+   },
+   "malicious": {
+      "message": "Kwaadaardige website geblokkeerd: "
+   },
+   "maximum_protection": {
+      "description": "The \"maximum\" word should be emphasized",
+      "message": "\u003Cstrong>Maximale\u003C/strong> bescherming voor uw apparaten"
+   },
+   "never": {
+      "message": "Nooit"
+   },
+   "never_loaded": {
+      "message": "werd nooit geladen!"
+   },
+   "no_filters_update": {
+      "message": "Geen bestanden om bij te werken!"
+   },
+   "one_moment": {
+      "message": "Een moment"
+   },
+   "option_filters": {
+      "message": "Filters"
+   },
+   "option_whitelist": {
+      "message": "Whitelist"
+   },
+   "page_hard_whitelisted": {
+      "message": "Domein op whitelist"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "rate_us": {
+      "message": "beoordeel ons"
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "show_ads_on_this_page": {
+      "message": "Toon advertentie's op deze pagina"
+   },
+   "success": {
+      "message": "Gelukt!"
+   },
+   "thank_you": {
+      "message": "Bedankt!"
+   },
+   "updating_filters": {
+      "message": "Filters bijwerken"
+   },
+   "user_whitelist": {
+      "message": "Whitelist gebruiker"
+   },
+   "we_recommend": {
+      "message": "Wij adviseren totale bescherming!"
+   },
+   "you_are_cool": {
+      "message": "U bent ook gaaf! Blijf zoals u bent."
+   }
+}

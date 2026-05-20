@@ -1,0 +1,211 @@
+{
+   "add_custom_filter": {
+      "message": "Adicionando filtro customizado"
+   },
+   "add_exclusion": {
+      "message": "Adicionar exceção"
+   },
+   "add_own_filter": {
+      "message": "Adicionar filtro personalizado"
+   },
+   "add_to_whitelist": {
+      "message": "Adicionar à lista de confiáveis"
+   },
+   "adlock_desc": {
+      "message": "A extensão do AdLock é excelente bloqueando anúncios no Google Chrome. No entanto, golpistas podem comprometer seu computador através de anúncios em outros navegadores, aplicativos e jogos. Se você precisa ampliar a sua proteção, experimente o AdLock para Windows."
+   },
+   "adlock_turn_off": {
+      "description": "TRANSLATE. Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "desativar"
+   },
+   "adlock_turn_on": {
+      "description": "TRANSLATE. Should be all lowercased because we explicitly convert to uppercase by JS code",
+      "message": "ativar"
+   },
+   "app_desc": {
+      "message": "Block ads on your favourite websites, including video and audio ads on YouTube, Crunchyroll, Spotify, SoundCloud and KissAnime."
+   },
+   "blocked_all_time": {
+      "message": "Bloqueado sempre"
+   },
+   "blocked_rule": {
+      "message": "Bloqueado pela regra: "
+   },
+   "blocked_this_page": {
+      "message": "Bloqueado nesta página"
+   },
+   "check_network": {
+      "message": "Verifique sua conexão com a rede e tente novamente"
+   },
+   "check_updates": {
+      "message": "verificar atualizações"
+   },
+   "check_url": {
+      "message": "Verifique a URL e tente novamente!"
+   },
+   "click_check_updates": {
+      "message": "Clique Verificar atualizações para baixar as regras"
+   },
+   "clipboard": {
+      "message": "Copiado para a área de transferência"
+   },
+   "contact_us": {
+      "message": "avaliar"
+   },
+   "custom_filter_successfully_added": {
+      "message": "'$filter_name$' adicionado com sucesso!",
+      "placeholders": {
+         "filter_name": {
+            "content": "$1"
+         }
+      }
+   },
+   "enter_whitelist": {
+      "message": "Digite URL ou domínio confiável"
+   },
+   "exclude_btn": {
+      "message": "excluir"
+   },
+   "fetch_rules": {
+      "message": "Não foi possível recuperar regras para a URL especificada. "
+   },
+   "filter_desc_1001": {
+      "message": "Conjunto de regras para a Runet (segmento da internet cujo idioma é russo)"
+   },
+   "filter_desc_1002": {
+      "message": "Conjunto de regras para vários websites em Inglês"
+   },
+   "filter_desc_1003": {
+      "message": "Regras que bloqueiam tentativas dos websites de rastrearem sua atividade"
+   },
+   "filter_desc_1004": {
+      "message": "Regras para proteger sua navegação de ser rastreada por redes sociais"
+   },
+   "filter_desc_1005": {
+      "message": "Regras para bloquear anúncios em vários websites em Espanhol e Português"
+   },
+   "filter_desc_1006": {
+      "message": "Regras para bloquear anúncios em quase todos os websites em Alemão"
+   },
+   "filter_desc_1008": {
+      "message": "Regras para bloquear anúncios em quase todos os websites em Holandês"
+   },
+   "filter_desc_1105": {
+      "message": "Regras para bloquear anúncios em vários websites Checos e Eslovacos"
+   },
+   "filter_desc_1216": {
+      "message": "Regras para bloquear anúncios em vários websites Polacos"
+   },
+   "filter_failed": {
+      "message": "Atualização de filtro falhou!"
+   },
+   "filter_list": {
+      "message": "Lista de filtros"
+   },
+   "filter_name": {
+      "message": "Nome do filtro"
+   },
+   "filter_name_1001": {
+      "message": "Filtro Russo"
+   },
+   "filter_name_1002": {
+      "message": "Filtro Inglês"
+   },
+   "filter_name_1003": {
+      "message": "Filtro de spyware"
+   },
+   "filter_name_1004": {
+      "message": "Filtro de redes sociais"
+   },
+   "filter_name_1005": {
+      "message": "Filtro Espanhol/Português"
+   },
+   "filter_name_1006": {
+      "message": "Filtro Alemão"
+   },
+   "filter_name_1008": {
+      "message": "Filtro Holandês"
+   },
+   "filter_name_1105": {
+      "message": "EasyList Checo e Eslovaco"
+   },
+   "filter_name_1216": {
+      "message": "Filtro Polaco"
+   },
+   "filter_source": {
+      "message": "Fonte do filtro"
+   },
+   "filters_updated": {
+      "message": "Os filtros foram atualizados."
+   },
+   "get_adlock": {
+      "message": "Adquira adlock para windows"
+   },
+   "get_it": {
+      "message": "Adquira"
+   },
+   "ignore_btn": {
+      "message": "ignorar"
+   },
+   "last_update": {
+      "message": "Última atualização"
+   },
+   "malicious": {
+      "message": "Website malicioso bloqueado: "
+   },
+   "maximum_protection": {
+      "description": "The \"maximum\" word should be emphasized",
+      "message": "Proteção \u003Cstrong>máxima\u003C/strong> para seus dispositivos"
+   },
+   "never": {
+      "message": "Nunca"
+   },
+   "never_loaded": {
+      "message": "nunca foi carregado!"
+   },
+   "no_filters_update": {
+      "message": "Sem filtros para atualizar!"
+   },
+   "one_moment": {
+      "message": "Um momento"
+   },
+   "option_filters": {
+      "message": "Filtros"
+   },
+   "option_whitelist": {
+      "message": "Sites Confiáveis "
+   },
+   "page_hard_whitelisted": {
+      "message": "Domínio em sites confiáveis"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "rate_us": {
+      "message": "avaliar"
+   },
+   "settings": {
+      "message": "Configurações"
+   },
+   "show_ads_on_this_page": {
+      "message": "Exibir anúncios nesta página"
+   },
+   "success": {
+      "message": "Sucesso!"
+   },
+   "thank_you": {
+      "message": "Obrigado!"
+   },
+   "updating_filters": {
+      "message": "Atualizando filtros"
+   },
+   "user_whitelist": {
+      "message": "Lista de sites confiáveis"
+   },
+   "we_recommend": {
+      "message": "Nós recomendamos a proteção completa!"
+   },
+   "you_are_cool": {
+      "message": "Também gostamos de você! Continue assim, do jeito que você é."
+   }
+}
